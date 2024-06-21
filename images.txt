@@ -1,2 +1,2 @@
-index.docker.io/kubevirt/virt-operator@sha256:494f1bfde54677e217ea621ff845c71bb1311d27064ba3b9f3811cb2244e54bf
+ jupyter/datascience-notebook
 
