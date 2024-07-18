@@ -1,2 +1,2 @@
- jupyter/datascience-notebook
+ openeuler/cuda:cuda12.2.0-devel-cudnn8.9.5.30-oe2203sp2
 
