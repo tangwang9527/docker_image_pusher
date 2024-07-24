@@ -1,1 +1,1 @@
-ghcr.io/exacaster/lighter:0.1.1-spark3.5.1
+rancher/rancher:v2.5.12-linux-arm64
