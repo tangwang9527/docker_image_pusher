@@ -1,1 +1,1 @@
-nacos/nacos:latest-arm64v8
+nacos/nacos-server:v2.4.0
