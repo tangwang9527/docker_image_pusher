@@ -1,1 +1,14 @@
- nacos/nacos-server@sha256:1a0177a11a6dd3dcdca2017ed821549e7394d6109055d9a3c1f2f0260a06baf5
+FROM openjdk:11-jre-slim
+
+# 设置工作目录
+WORKDIR /jar
+
+# 将Ceph Java库的依赖添加到容器中
+RUN apt-get update && \
+    apt-get install -y software-properties-common && \
+    add-apt-repository cloud-archive:newton && \
+    apt-get update && \
+    apt-get install -y python-software-properties && \
+    apt-get update && \
+    apt-get install -y librados2 librbd1 && \
+    rm -rf /var/lib/apt/lists/*
