@@ -1,1 +1,1 @@
-mysql:latest
+rancher/rancher-agent:v2.5.12-linux-arm64
