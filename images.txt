@@ -1,1 +1,1 @@
-gcr.io/google-samples/nfs-server
+nfs-client-provisioner:latest
