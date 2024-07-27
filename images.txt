@@ -1,8 +1,1 @@
-FROM busybox
-WORKDIR .
-
-# TODO Change to your desired driver.
-COPY ./drivers/dummy /dummy
-
-COPY deploy.sh /deploy.sh
-CMD /bin/sh /deploy.sh
+gcr.io/google-samples/nfs-server
