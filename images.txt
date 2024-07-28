@@ -1,1 +1,1 @@
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+kubesphere/kube-apiserver:v1.23.15 --platform arm64
