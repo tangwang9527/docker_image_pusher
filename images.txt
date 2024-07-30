@@ -1,2 +1,2 @@
---platform=linux/arm64 ghcr.io/octohelm/harbor/harbor-jobservice:v2.9.0
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.11.1
 
