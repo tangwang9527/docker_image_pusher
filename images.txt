@@ -1,1 +1,1 @@
-ghcr.io/octohelm/harbor/harbor-registryctl:v2.5.1 --platform arm64
+--platform=linux/arm64 ghcr.io/octohelm/harbor/harbor-registryctl:v2.9.0 
