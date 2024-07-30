@@ -1,2 +1,2 @@
---platform=linux/arm64 ghcr.io/octohelm/harbor/harbor-exporter:v2.9.0
+--platform=linux/arm64 ghcr.io/octohelm/harbor/redis-photon:v2.9.0
 
