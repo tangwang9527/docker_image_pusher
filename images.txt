@@ -1,2 +1,2 @@
- --platform=linux/arm64 ghcr.io/octohelm/harbor/harbor-portal:v2.9.0    
+ --platform=linux/arm64 ghcr.io/octohelm/harbor/harbor-log:v2.9.0
 
