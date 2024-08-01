@@ -1,1 +1,1 @@
-pull quay.io/k8scsi/csi-attacher:v3.1.0
+quay.io/k8scsi/csi-attacher:v3.1.0
