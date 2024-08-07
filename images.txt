@@ -1,1 +1,1 @@
-quay.io/k8scsi/csi-attacher:v3.1.0
+ nvcr.io/nvidia/k8s-device-plugin:v0.14.5
