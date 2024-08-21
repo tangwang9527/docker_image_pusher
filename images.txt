@@ -1,1 +1,1 @@
- dragonflyoss/supernode:0.3.0
+dragonflyoss/dfclient:v0.3.0
