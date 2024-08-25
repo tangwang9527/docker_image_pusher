@@ -1,1 +1,1 @@
-dragonflyoss/dfclient:v0.3.0
+1panel/kubepi
