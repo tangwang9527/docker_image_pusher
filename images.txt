@@ -1,1 +1,1 @@
-1panel/kubepi
+redis
