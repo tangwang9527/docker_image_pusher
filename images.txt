@@ -1,1 +1,1 @@
-redis:7.0.14-alpine
+thomassong/gpu-admission:47d56ae9
