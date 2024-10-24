@@ -1,1 +1,1 @@
-tkestack/gpu-manager:v1.1.5
+ tkestack/gpu-manager:v1.0.4
