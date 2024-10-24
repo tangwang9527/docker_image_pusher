@@ -1,1 +1,1 @@
- tkestack/gpu-manager:v1.0.4
+menghe.tencentcloudcr.com/public/alpine-uvm:0.1
