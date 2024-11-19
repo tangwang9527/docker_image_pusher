@@ -1,1 +1,1 @@
-rook/ceph:v1.10.13
+quay.io/cephcsi/cephcsi:v3.4-canary
