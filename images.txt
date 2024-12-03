@@ -1,1 +1,1 @@
-python:3.8-slim
+nacos/nacos-server:v2.2.0
