@@ -1,1 +1,1 @@
-nvcr.io/nvidia/k8s-device-plugin:v0.12.2
+nvcr.io/nvidia/gpu-feature-discovery:v0.6.1
