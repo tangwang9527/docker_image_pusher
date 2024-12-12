@@ -1,1 +1,1 @@
-nvcr.io/nvidia/gpu-feature-discovery:v0.6.1
+docker.io/jettech/kube-webhook-certgen:v1.5.2
