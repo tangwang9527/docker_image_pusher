@@ -1,1 +1,1 @@
-busybox:latest
+alpine:3.7
