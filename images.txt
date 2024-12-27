@@ -1,1 +1,1 @@
-openjdk:latest
+kong/httpbin
