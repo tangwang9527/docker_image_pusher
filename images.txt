@@ -1,1 +1,1 @@
-docker/whalesay
+docker/whalesay:latest
