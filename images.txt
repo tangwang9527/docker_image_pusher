@@ -1,1 +1,1 @@
-kong/httpbin
+minio/minio:RELEASE.2022-11-17T23-20-09Z
