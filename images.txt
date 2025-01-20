@@ -1,1 +1,1 @@
-prom/mysqld-exporter:latest
+chainguard/nfs-subdir-external-provisioner:latest
